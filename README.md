@@ -1,4 +1,4 @@
-### welcome 👋
+### 👋 Hello there, how you doing?
 
 ## Stats Account
 ![](https://github-readme-stats.vercel.app/api?username=wagnercrosa&theme=dark&show_icons=true)<br>
