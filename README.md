@@ -5,5 +5,5 @@
 
 
 ## Stats Best Public Repository
-![](https://github-readme-stats.vercel.app/api?username=wagnercrosa&theme=dark&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=wagnercrosa&repo=sdk-genet-php&cache_seconds=86400&theme=dark)
 
